@@ -1,12 +1,10 @@
-# Procascination-Planner
-
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Procascination-Planner 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Team Shibu
 
 
 ### Team Members
